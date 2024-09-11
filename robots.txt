@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://miqemusado.netlify.app/sitemap.xml
